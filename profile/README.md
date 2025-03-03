@@ -2,7 +2,7 @@
 
 We are looking forward to handle lots of e-invoices 🧾
 
-🧪 Are you looking for are API? Subscribe at https://e-invoice.be and you'll be the first to get access!
+🧪 Are you looking for are API? Check out https://api.e-invoice.be
 
 <!--
 
