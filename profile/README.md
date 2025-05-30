@@ -2,6 +2,12 @@
 
 We are looking forward to handle lots of e-invoices 🧾
 
+In the coming weeks we will release:
+
+- TypeScript SDK
+- Python SDK
+- n8n community node
+
 🧪 Are you looking for are API? Check out https://api.e-invoice.be
 
 <!--
