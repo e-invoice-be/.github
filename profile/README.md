@@ -6,7 +6,9 @@ In the coming weeks we will release:
 
 - TypeScript SDK
 - Python SDK
+- Java SDK
 - n8n community node
+- Zapier app
 
 🧪 Are you looking for are API? Check out https://api.e-invoice.be
 
