@@ -102,16 +102,6 @@ We welcome contributions from the community! Please see individual repository co
 - Update documentation for any API changes
 - Ensure all changes maintain backward compatibility
 
-## 🤝 Contributing
-
-We welcome contributions from the community! Please see individual repository contribution guidelines for specific projects.
-
-### General Guidelines
-- Follow our coding standards and best practices
-- Include comprehensive tests for new features
-- Update documentation for any API changes
-- Ensure all changes maintain backward compatibility
-
 ## 📄 License
 
 Our open-source projects are licensed under the Apache License 2.0 unless otherwise specified. See individual repository LICENSE files for details.
@@ -131,11 +121,10 @@ Join our community of developers and businesses making e-invoicing simple:
 
 ---
 
-**Ready to make 2026 compliance effortless?** Start today at [e-invoice.be](https://e-invoice.be) for just €1.
+**Looking for a Peppol API?** Start today at [e-invoice.be](https://app.e-invoice.be/register?ref=github) for just €1.
 
 *e-invoice.be - Because e-invoicing should be simple, not complicated.*
 
-🧪 Are you looking for are API? Check out https://api.e-invoice.be
 
 <!--
 
