@@ -2,12 +2,13 @@
 
 **Switch to e-invoicing, keep your workflow**
 
-Welcome to the e-invoice.be GitHub organization! We're building the simplest way for businesses worldwide to become e-invoicing compliant while maintaining their existing workflow.
+Welcome to the e-invoice.be GitHub organization! We're building the simplest way for businesses worldwide to use e-invoicing.
 
 ## 🚀 About Us
 
-E-Invoice.be is the pragmatic e-invoicing solution for businesses worldwide. We believe that compliance shouldn't mean complexity. Our platform allows businesses to:
+At e-invoice.be we believe that compliance shouldn't mean complexity. Our platform allows businesses to:
 
+- **Use simple and straightforward solutions** - We offer a simple app and powerful Peppol API
 - **Keep working as they always have** - Continue using Excel, Word, PDF, or any familiar tools
 - **Receive e-invoices in their email** - No new inbox to check, everything comes to your existing email
 - **Start for just €1** - Pay only for what you use with transparent per-invoice pricing
