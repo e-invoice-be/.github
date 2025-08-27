@@ -46,8 +46,8 @@ Our platform is built with modern, scalable technologies:
 - `e-invoice-ts` - JavaScript/Node.js SDK: https://www.npmjs.com/package/e-invoice-api
 - `e-invoice-py` - Python SDK: https://pypi.org/project/e-invoice-api/
 - `e-invoice-rb` - Ruby SDK: https://rubygems.org/gems/e-invoice-api
-- `e-invoice-api-java` - Java SDK (Coming Q3 2025)
-- `e-invoice-api-php` - PHP SDK (Coming Q3 2025)
+- `e-invoice-api-php` - PHP SDK: https://packagist.org/packages/e-invoice/e-invoice-api
+- `e-invoice-api-java` - Java SDK (Coming Q4 2025)
 
 ## 🚀 Quick Start
 
