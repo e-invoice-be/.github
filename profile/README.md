@@ -52,7 +52,7 @@ Our platform is built with modern, scalable technologies:
 ## 🚀 Quick Start
 
 ### For Businesses
-1. Sign up at [e-invoice.be](https://app.e-invoice.be/register?ref=github-biz) for €1
+1. Sign up at [e-invoice.be](https://app.e-invoice.be/register?ref=github-biz)
 2. Complete company onboarding
 3. Start receiving e-invoices in your email immediately
 
@@ -80,9 +80,8 @@ Our platform is built with modern, scalable technologies:
 
 ## 📖 Documentation
 
-- **API Documentation**: [api.e-invoice.be/docs](https://api.e-invoice.be/docs)
-- **User Guide**: [api.e-invoice.be/docs/guide](https://api.e-invoice.be/docs/guide)
-- **Developer Portal**: [api.e-invoice.be](https://api.e-invoice.be)
+- **API Documentation**: [docs.e-invoice.be/api-reference](https://docs.e-invoice.be/api-reference)
+- **Developer Portal**: [docs.e-invoice.be](https://docs.e-invoice.be)
 
 ## 🌍 E-Invoicing Compliance
 
@@ -91,7 +90,7 @@ E-invoicing mandates are rolling out globally, with many countries requiring bus
 - **No workflow changes** - Keep using your current tools and processes
 - **Automatic compliance** - We handle all technical requirements
 - **Gradual adoption** - Start with receiving, upgrade to sending when needed
-- **Cost-effective** - Pay only for what you use, starting at €1
+- **Cost-effective** - Pay only for what you use
 
 ## 🤝 Contributing
 
@@ -111,14 +110,13 @@ Our open-source projects are licensed under the Apache License 2.0 unless otherw
 
 - **Technical Support**: Create an issue in the relevant repository
 - **Business Support**: [support@e-invoice.be](mailto:support@e-invoice.be)
-- **Documentation**: [api.e-invoice.be/docs](https://api.e-invoice.be/docs)
 
 ## 🎉 Community
 
 Join our community of developers and businesses making e-invoicing simple:
 
 - **Website**: [e-invoice.be](https://e-invoice.be)
-- **API Portal**: [api.e-invoice.be](https://api.e-invoice.be)
+- **API Portal**: [docs.e-invoice.be](https://docs.e-invoice.be)
 
 ---
 
