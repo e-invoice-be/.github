@@ -1,3 +1,5 @@
+![e-invoice.be Banner](./einvoice-banner.jpg)
+
 # E-Invoice.be 🧾 - hey there 👋
 
 **Switch to e-invoicing, keep your workflow**
